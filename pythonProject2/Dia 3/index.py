@@ -5,3 +5,6 @@ resultado = mi_texto.rindex("a")
 print(resultado)
 
 
+
+
+
